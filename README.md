@@ -1,2 +1,2 @@
 # Imam_Kerja
-Saya tertarik mengikuti Coyrse ini karena syaa ingin menjadi seorang QA
+Saya tertarik mengikuti Course ini karena syaa ingin menjadi seorang QA
